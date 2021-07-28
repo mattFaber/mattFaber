@@ -2,7 +2,7 @@
 
 Hi, I’m @mattFaber!
 
-I'm currently running my own development company, creativly named [Faber Development](https://faberdevelopment.com), which I started in 2018.
+I'm currently running my own development company, creativly named <a href="https://faberdevelopment.com" targe="_blank">Faber Development</a>, which I started in 2018.
 
 Most of the work I've done in the past 3 years has been focused on developing serverless web applications and websites for a range of different clients.
 
