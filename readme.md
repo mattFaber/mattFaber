@@ -25,7 +25,13 @@
 - scaffolding & workflow & deployment automation
 - scripting & development
 
-### But wait! There's more!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## But wait! There's more!
 - not really
 - I'll update this periodically (hopefully)
 
