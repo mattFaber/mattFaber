@@ -29,8 +29,10 @@
 <br>
 
 ## But wait! There's more!
-- not really
-- I'll update this periodically (hopefully)
+
+not really, at the moment, sorry...
+
+I'll update this periodically (hopefully)
 
 
 duces ✌️
